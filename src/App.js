@@ -1,3 +1,5 @@
+import './App.css';
+
 import FavouriteFoodForm from './FavouriteFoodForm';
 import FavouriteDrinkForm from './FavouriteDrinkForm';
 
